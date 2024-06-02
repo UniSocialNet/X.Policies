@@ -10,6 +10,9 @@ https://help.twitter.com/en/managing-your-account/locked-and-limited-accounts
 
 https://help.twitter.com/en/rules-and-policies/x-automation
 
+# Monetization
+https://help.x.com/en/rules-and-policies/content-monetization-standards
+
 # my.
 check:
 https://twitter.com/account/access
