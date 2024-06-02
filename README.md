@@ -21,6 +21,10 @@ https://help.x.com/en/rules-and-policies/content-monetization-standards
 - https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs.html
 - https://business.x.com/en/help/ads-policies/product-policies/brand-safety-policy.html
 
+# Subscriptions
+- https://help.x.com/en/using-x/subscriptions-creator
+- https://legal.x.com/en/subscriptions-creator-terms.html
+
 # my.
 check:
 https://twitter.com/account/access
