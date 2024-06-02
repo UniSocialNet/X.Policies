@@ -1,6 +1,9 @@
 # X.Policies
 index: https://help.x.com/en/rules-and-policies
 
+# Terms of Service
+https://x.com/en/tos
+
 # general
 https://help.x.com/en/rules-and-policies/x-rules
 
