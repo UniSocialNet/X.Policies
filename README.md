@@ -24,6 +24,7 @@ https://help.x.com/en/rules-and-policies/content-monetization-standards
 # Subscriptions
 - https://help.x.com/en/using-x/subscriptions-creator
 - https://legal.x.com/en/subscriptions-creator-terms.html
+- https://x.com/i/communities/1506760888291934216
 
 # my.
 check:
